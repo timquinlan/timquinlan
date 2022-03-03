@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timquinlan
-- 👀 I’m interested in FreeBSD, Linux, Kubernetes
+- 👀 I’m interested in NGINX, FreeBSD, Linux, Kubernetes, OpenStack
 - 🌱 I’m currently learning service meshes and operators
 - 💞️ I’m looking to collaborate on software defined networking
 - 📫 @trquacker on twitter
