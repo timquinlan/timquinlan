@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @timquinlan
-- 👀 I’m interested in NGINX, FreeBSD, Linux, Kubernetes, OpenStack
-- 🌱 I’m currently learning service meshes and operators
-- 💞️ I’m looking to collaborate on software defined networking
-- 📫 @trquacker on twitter
+- 👀 I’m interested in eBPF, NGINX, FreeBSD, Linux, Kubernetes, OpenStack
+- 🌱 I’m currently learning eBPF
+
 
 <!---
 timquinlan/timquinlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
