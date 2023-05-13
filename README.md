@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @timquinlan
-- 👀 I’m interested in eBPF, NGINX, FreeBSD, Linux, Kubernetes, OpenStack
-- 🌱 I’m currently learning eBPF
+- 👀 I’m interested in eBPF, ML/NLP, NGINX, FreeBSD, Linux, Kubernetes, OpenStack
 
 
 <!---
