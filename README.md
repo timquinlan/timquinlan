@@ -3,9 +3,9 @@
 - I'm currently looking for a new role.
 - Here are some samples of writing/speaking that I have done:
 
-- Story/Experience driven blog series:
-    - [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1)
-    - [Automation in the Modern Enterprise Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
+    - Story/Experience driven blog series:
+        - [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1)
+        - [Automation in the Modern Enterprise Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
 
 - Straight-Forward technical blog post:
     [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
