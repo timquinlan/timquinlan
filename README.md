@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timquinlan
-- 👀 I’m interested in eBPF, ML/NLP, NGINX, FreeBSD, Linux, Kubernetes, OpenStack
+- I’m interested in eBPF, ML/NLP, NGINX, FreeBSD, Linux, Kubernetes, OpenStack
 - I'm currently looking for a new role.
 - Here are some samples of writing/speaking that I have done:
 
@@ -17,7 +17,6 @@
     - Config posts including detailed write-up:
         - [NGINX+ Dynamic Rewrites](https://github.com/timquinlan/nginxplus_dynamic_rewrites)
         - [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
-        - [NGINX+ Multinode Token Sharing](https://github.com/timquinlan/multinode_tokens)
 
     - Scripting example:
         - [VM Setup Script for Unit Testing](https://github.com/timquinlan/scripts/blob/master/autovm/cstest)
