@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @timquinlan
-- I’m interested in eBPF, ML/NLP, NGINX, FreeBSD, Linux, Kubernetes, OpenStack
-- I'm currently looking for a new role.
+- I’m interested in ML/NLP, FreeBSD, Linux and Kubernetes
 - Here are some samples of writing/speaking that I have done:
 
     - Story/Experience driven blog series:
