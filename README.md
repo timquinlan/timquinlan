@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @timquinlan
-- I’m interested in ML/NLP, FreeBSD, Linux and Kubernetes
 - Here are some samples of writing/speaking that I have done:
 
     - Webinars/Conference talks with live demos:
