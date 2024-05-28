@@ -8,6 +8,7 @@
         - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
           
     - Story/Experience driven blog series:
+        - [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
         - [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1)
         - [Automation in the Modern Enterprise Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
 
