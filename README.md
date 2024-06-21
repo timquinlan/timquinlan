@@ -8,19 +8,14 @@
         - [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
         - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
           
-    - Story/Experience driven blog series:
+    - Blog posts:
         - [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
         - [Deploy and Govern Generative AI Tools at Scale with Coder](https://coder.com/blog/deploy-generative-ai-tools-at-scale-with-coder)
         - [Deploy Generative AI at scale with one code block using Coder, VS Code Web and GitHub Copilot](https://coder.com/blog/deploy-generative-ai-at-scale-with-one-code-block-using-coder-vs-code-web-and-git)
         - [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1)
         - [Automation in the Modern Enterprise Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
-
-    - Straight-Forward technical posts:
-       - [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
-       - [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
-
-    - Scripting example:
-        - [VM Setup Script for Unit Testing](https://github.com/timquinlan/scripts/blob/master/autovm/cstest)
+        - [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
+        - [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
 
 <!---
 timquinlan/timquinlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
