@@ -2,6 +2,7 @@
 - Here are some samples of writing/speaking that I have done:
 
     - Webinars/Conference talks with live demos:
+        - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
         - [Deploy GenAI at Scale with Coder](https://coder.com/webinars/deploy-genai-at-scale-with-coder/register)
         - [Optimizing the Modern Development Experience with Coder](https://coder.com/webinars/optimizing-the-modern-developer-experience-with-coder/register)
         - [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
