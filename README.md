@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timquinlan
-- Here are some samples of writing/speaking that I have done:
+- Here are some samples of speaking and writing:
 
     - Webinars/Conference talks with live demos:
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
