@@ -11,7 +11,7 @@
           
     - Blog posts and white papers:
         - [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
-        - [Cloud development environments can help software become more secure](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
+        - [Federal News Network Commentary](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
         - [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
         - [Deploy and Govern Generative AI Tools at Scale with Coder](https://coder.com/blog/deploy-generative-ai-tools-at-scale-with-coder)
         - [Deploy Generative AI at scale with one code block using Coder, VS Code Web and GitHub Copilot](https://coder.com/blog/deploy-generative-ai-at-scale-with-one-code-block-using-coder-vs-code-web-and-git)
