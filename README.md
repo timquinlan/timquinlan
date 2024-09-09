@@ -9,7 +9,8 @@
         - [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
         - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
           
-    - Blog posts:
+    - Blog posts and white papers:
+        - [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
         - [Cloud development environments can help software become more secure](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
         - [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
         - [Deploy and Govern Generative AI Tools at Scale with Coder](https://coder.com/blog/deploy-generative-ai-tools-at-scale-with-coder)
