@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @timquinlan
 - Here are some samples of speaking and writing:
 
-    - Webinars/Conference talks with live demos:
+    - Web Series, Webinars & Conference Talks:
+        - [CDE 101 Web Series](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
         - [Deploy GenAI at Scale with Coder](https://coder.com/webinars/deploy-genai-at-scale-with-coder/register)
         - [Deploy AI/ML Development Tooling at Scale with Coder](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register)
