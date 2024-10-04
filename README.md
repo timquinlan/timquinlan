@@ -2,7 +2,6 @@
 - Here are some samples of speaking and writing:
 
     - Web Series, Webinars & Conference Talks:
-        - [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
         - [CDE 101 Web Series](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
         - [Deploy GenAI at Scale with Coder](https://coder.com/webinars/deploy-genai-at-scale-with-coder/register)
@@ -11,6 +10,7 @@
         - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
           
     - Blog posts and white papers:
+        - [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
         - [Leveraging Coder's Cloud Development Environment for Compliance with the Digital Operational Resilience Act](https://coder.com/blog/leveraging-coder-s-cloud-development-environment-for-compliance-with-the-digital) 
         - [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
         - [Federal News Network Commentary](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
