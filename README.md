@@ -17,8 +17,7 @@
         - [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
         - [Deploy and Govern Generative AI Tools at Scale with Coder](https://coder.com/blog/deploy-generative-ai-tools-at-scale-with-coder)
         - [Deploy Generative AI at scale with one code block using Coder, VS Code Web and GitHub Copilot](https://coder.com/blog/deploy-generative-ai-at-scale-with-one-code-block-using-coder-vs-code-web-and-git)
-        - [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1)
-        - [Automation in the Modern Enterprise Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
+        - [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1), [Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
         - [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
         - [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
 
