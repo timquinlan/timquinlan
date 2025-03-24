@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timquinlan
-- Here are some samples of speaking and writing:
+- Here are some speaking and writing samples:
 
     - Web Series, Webinars & Conference Talks:
         - [CDEs are Strategic Assets](https://www.youtube.com/live/TnxZ6L9Ctt0?si=j00lzlHGkmIq7omq&t=6841)
