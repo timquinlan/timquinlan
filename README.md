@@ -2,7 +2,7 @@
 
     - Web Series, Webinars & Conference Talks:
         - [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
-        - [CDEs are Strategic Assets](https://www.youtube.com/live/TnxZ6L9Ctt0?si=j00lzlHGkmIq7omq&t=6841)
+        - [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
         - [CDE 101 Web Series](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
         - [Deploy AI/ML Development Tooling at Scale with Coder](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register)
