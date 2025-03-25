@@ -1,4 +1,4 @@
-👋 Hi, I’m @timquinlan, a creative field engineer who enjoys working with open source software. I'm able to leverage my experience working for customers, partners and vendors to provide a holistic view of technology and act as a trusted voice to prospects. I feel that industry outreach is the cornerstone of building strong product engagement. Here are some speaking and writing samples:
+- 👋 Hi, I’m @timquinlan, a creative field engineer who enjoys working with open source software. I'm able to leverage my experience working for customers, partners and vendors to provide a holistic view of technology and act as a trusted voice to prospects. I feel that industry outreach is the cornerstone of building strong product engagement. Here are some speaking and writing samples:
 
     - Web Series, Webinars & Conference Talks:
         - [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
