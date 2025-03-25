@@ -2,6 +2,7 @@
 - Here are some speaking and writing samples:
 
     - Web Series, Webinars & Conference Talks:
+        - [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
         - [CDEs are Strategic Assets](https://www.youtube.com/live/TnxZ6L9Ctt0?si=j00lzlHGkmIq7omq&t=6841)
         - [CDE 101 Web Series](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
