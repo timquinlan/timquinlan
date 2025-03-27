@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @timquinlan, a creative field engineer who enjoys working with open source software. I'm able to leverage my experience working for customers, partners and vendors to provide a holistic view of technology and act as a trusted voice to prospects. I feel that industry outreach is the cornerstone of building strong product engagement. Here are some speaking and writing samples:
 
     - Web Series, Webinars & Conference Talks:
-        - [NGINX Community Chats: Outside Insights](https://youtu.be/0i12ptACDtI?si=INae2wWVwgyrpI5y)
-        - [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
         - [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
+        - [NGINX Community Chats: Outside Insights](https://youtu.be/0i12ptACDtI?si=INae2wWVwgyrpI5y)
+        - [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
+        - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
+        - [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
         - [CDE 101 Web Series](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
         - [Deploy AI/ML Development Tooling at Scale with Coder](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register)
-        - [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
-        - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
+
           
     - White papers, blog posts, and code examples:
         - [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
