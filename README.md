@@ -3,6 +3,7 @@
     - Web Series, Webinars & Conference Talks:
         - [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
         - [NGINX Community Chats: Outside Insights](https://youtu.be/0i12ptACDtI?si=INae2wWVwgyrpI5y)
+        - [Bridging Open Source Developer Platforms: Backstage Meets Coder](https://www.youtube.com/watch?v=2wAn9h0zJR0&t=67s)
         - [CDE 101 Web Series](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
         - [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
