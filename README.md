@@ -4,11 +4,11 @@
         - [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
         - [NGINX Community Chats: Outside Insights](https://youtu.be/0i12ptACDtI?si=INae2wWVwgyrpI5y)
         - [CDE 101 Web Series](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
-        - [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
-        - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
         - [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
         - [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
         - [Deploy AI/ML Development Tooling at Scale with Coder](https://coder.com/webinars/deploy-ai-ml-development-tooling-at-scale-with-coder/register)
+        - [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
+        - [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
 
           
     - White papers, blog posts, and code examples:
