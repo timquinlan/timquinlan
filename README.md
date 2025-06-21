@@ -14,7 +14,7 @@
         - Ohio Linux Fest 2019: [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
 
           
-    - White papers, blog posts, and code examples:
+    - White Papers & Blog Posts:
         - [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
         - [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
         - [Leveraging Coder's Cloud Development Environment for Compliance with the Digital Operational Resilience Act](https://coder.com/blog/leveraging-coder-s-cloud-development-environment-for-compliance-with-the-digital) 
