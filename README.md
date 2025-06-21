@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timquinlan, a creative field engineer who enjoys working with open source software. I'm able to leverage my experience working for customers, partners and vendors to provide a holistic view of technology and act as a trusted voice to prospects. I feel that industry outreach is the cornerstone of building strong product engagement. Here are some speaking and writing samples:
 
-    - Conference Talks, Webinars & Related Video Content:
+    - Video Samples:
         - SCaLE 2025: [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
         - Interview: [NGINX Community Chats: Outside Insights](https://youtu.be/0i12ptACDtI?si=INae2wWVwgyrpI5y)
         - Social Media Shorts [1](https://www.linkedin.com/posts/coderhq_clouddevelopment-devops-vdi-activity-7306105148513075201-xYu6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [2](https://www.linkedin.com/posts/coderhq_clouddevelopment-developerexperience-ai-activity-7286185593514995712-ilki?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [3](https://www.linkedin.com/posts/coderhq_developerexperience-clouddevelopment-innovation-activity-7282133889123328000-PHgu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [4](https://www.linkedin.com/posts/coderhq_clouddevelopment-developerexperience-platformengineering-activity-7282939256958791680-tolS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM)
@@ -13,16 +13,16 @@
         - Ohio Linux Fest 2019: [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
 
           
-    - White Papers & Blog Posts:
-        - [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
-        - [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
-        - [Leveraging Coder's Cloud Development Environment for Compliance with the Digital Operational Resilience Act](https://coder.com/blog/leveraging-coder-s-cloud-development-environment-for-compliance-with-the-digital) 
-        - [Federal News Network Commentary](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
-        - [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
-        - [Deploy Generative AI at scale with one code block using Coder, VS Code Web and GitHub Copilot](https://coder.com/blog/deploy-generative-ai-at-scale-with-one-code-block-using-coder-vs-code-web-and-git)
-        - [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1), [Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
-        - [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
-        - [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
+    - Writing Samples:
+        - E-book: [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
+        - Busniess Oriented: [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
+        - Regulatory Oriented: [Leveraging Coder's Cloud Development Environment for Compliance with the Digital Operational Resilience Act](https://coder.com/blog/leveraging-coder-s-cloud-development-environment-for-compliance-with-the-digital) 
+        - Public Sector Oriented: [Federal News Network Commentary](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
+        - Business Oriented: [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
+        - Technical: [Deploy Generative AI at scale with one code block using Coder, VS Code Web and GitHub Copilot](https://coder.com/blog/deploy-generative-ai-at-scale-with-one-code-block-using-coder-vs-code-web-and-git)
+        - Techncial Blog: [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1), [Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
+        - Techncial: [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
+        - Technical: [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
 
 <!---
 timquinlan/timquinlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
