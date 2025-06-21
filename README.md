@@ -9,7 +9,6 @@
         - Open Source Summit 2024: [Bridging Open Source Developer Platforms: Backstage Meets Coder](https://www.youtube.com/watch?v=2wAn9h0zJR0&t=67s)
         - PlatformCon 2024: [Accelerate cloud native development with Coder](https://www.youtube.com/watch?v=0vK10Z7LF6A)
         - Web Series: [CDE 101](https://youtube.com/playlist?list=PLQepvBEEArfmXfnZHSRQj_puTN7BVXcg2&si=RALDe_ifTEvhNhEa)
-       
         - Ohio Linux Fest 2022: [NGINX 102](https://www.youtube.com/live/DjOgRbHnvwU?feature=share&t=14706)
         - Ohio Linux Fest 2019: [Getting Started with Infrastructure as Code](https://youtu.be/f_lo_8-5cMs)
 
