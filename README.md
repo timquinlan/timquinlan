@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timquinlan, a creative field engineer who enjoys working with open source software. I'm able to leverage my experience working for customers, partners and vendors to provide a holistic view of technology and act as a trusted voice to prospects. I feel that industry outreach is the cornerstone of building strong product engagement. Here are some speaking and writing samples:
 
-    - Web Series, Webinars & Conference Talks:
+    - Conference Talks, Webinars & Related Video Content:
         - SCaLE 2025: [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
         - Interview: [NGINX Community Chats: Outside Insights](https://youtu.be/0i12ptACDtI?si=INae2wWVwgyrpI5y)
         - Open Source Summit 2024: [Bridging Open Source Developer Platforms: Backstage Meets Coder](https://www.youtube.com/watch?v=2wAn9h0zJR0&t=67s)
