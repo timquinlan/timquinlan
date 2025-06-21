@@ -15,7 +15,7 @@
           
     - Writing Samples:
         - E-book: [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
-        - Busniess Blog: [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
+        - Business Blog: [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
         - Regulatory Blog: [Leveraging Coder's Cloud Development Environment for Compliance with the Digital Operational Resilience Act](https://coder.com/blog/leveraging-coder-s-cloud-development-environment-for-compliance-with-the-digital) 
         - Public Sector Blog: [Federal News Network Commentary](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
         - Business Blog: [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
