@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timquinlan, a creative field engineer who enjoys working with open source software. I'm able to leverage my experience working for customers, partners and vendors to provide a holistic view of technology and act as a trusted voice to prospects. I feel that industry outreach is the cornerstone of building strong product engagement. Here are some speaking and writing samples from the last few years:
 
-    - Video Samples:
+    - Speaking Samples:
         - SCaLE 2025: [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
         - Interview: [NGINX Community Chats: Outside Insights](https://youtu.be/0i12ptACDtI?si=INae2wWVwgyrpI5y)
         - Social Media Shorts [1](https://www.linkedin.com/posts/coderhq_clouddevelopment-devops-vdi-activity-7306105148513075201-xYu6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [2](https://www.linkedin.com/posts/coderhq_clouddevelopment-developerexperience-ai-activity-7286185593514995712-ilki?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [3](https://www.linkedin.com/posts/coderhq_developerexperience-clouddevelopment-innovation-activity-7282133889123328000-PHgu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [4](https://www.linkedin.com/posts/coderhq_clouddevelopment-developerexperience-platformengineering-activity-7282939256958791680-tolS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM)
