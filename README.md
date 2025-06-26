@@ -23,6 +23,7 @@
         - Technical Blog: [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1), [Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
         - Technical Blog: [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
         - Technical Blog: [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
+        - Technical Blog: [NGINX+ Multi-Node Tokens](https://github.com/timquinlan/multinode_tokens)
 
 <!---
 timquinlan/timquinlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
