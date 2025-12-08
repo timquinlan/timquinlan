@@ -2,7 +2,7 @@
 
     - Speaking Samples:
         - SCaLE 2025: [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
-        - Interview: [NGINX Community Chats: Outside Insights](https://resources.coder.com/hub/col/resource-center/accelerating-development-how-skydio-engineers-leverage-cdes)
+        - Interview: [NGINX Community Chats: Outside Insights](https://www.youtube.com/watch?v=0i12ptACDtI)
         - Social Media Shorts [1](https://www.linkedin.com/posts/coderhq_clouddevelopment-devops-vdi-activity-7306105148513075201-xYu6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [2](https://www.linkedin.com/posts/coderhq_clouddevelopment-developerexperience-ai-activity-7286185593514995712-ilki?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [3](https://www.linkedin.com/posts/coderhq_developerexperience-clouddevelopment-innovation-activity-7282133889123328000-PHgu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM), [4](https://www.linkedin.com/posts/coderhq_clouddevelopment-developerexperience-platformengineering-activity-7282939256958791680-tolS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzW90BAUIEMR_bGxn-fJZP6A94PIn8yDM)
         - Client Interview: [Accelerating Development: How Skydio Engineers Leverage CDEs](https://coder.com/webinars/accelerating-development-how-skydio-engineers-leverage-cdes/register)
         - Open Source Summit 2024: [Bridging Open Source Developer Platforms: Backstage Meets Coder](https://www.youtube.com/watch?v=2wAn9h0zJR0&t=67s)
