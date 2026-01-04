@@ -15,15 +15,15 @@
           
     - Writing Samples:
         - E-book: [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
-        - Business Blog: [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
-        - Regulatory Blog: [Leveraging Coder's Cloud Development Environment for Compliance with the Digital Operational Resilience Act](https://coder.com/blog/leveraging-coder-s-cloud-development-environment-for-compliance-with-the-digital) 
-        - Public Sector Blog: [Federal News Network Commentary](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
-        - Business Blog: [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
         - Technical Blog: [Deploy Generative AI at scale with one code block using Coder, VS Code Web and GitHub Copilot](https://coder.com/blog/deploy-generative-ai-at-scale-with-one-code-block-using-coder-vs-code-web-and-git)
         - Technical Blog: [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1), [Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
         - Technical Blog: [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
         - Technical Blog: [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
         - Technical Blog: [NGINX+ Multi-Node Tokens](https://github.com/timquinlan/multinode_tokens)
+        - Business Blog: [Cloud Development Environments: A New Frontline in Healthcare Cybersecurity](https://hitconsultant.net/2024/09/27/cloud-development-environments-healthcare-cybersecurity/)
+        - Regulatory Blog: [Leveraging Coder's Cloud Development Environment for Compliance with the Digital Operational Resilience Act](https://coder.com/blog/leveraging-coder-s-cloud-development-environment-for-compliance-with-the-digital) 
+        - Public Sector Blog: [Federal News Network Commentary](https://federalnewsnetwork.com/commentary/2024/08/cloud-development-environments-can-help-software-become-more-secure/)
+        - Business Blog: [Security, Stability & Scalability with Coder](https://coder.com/blog/security-stability-scalability-with-coder)
 
 <!---
 timquinlan/timquinlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
