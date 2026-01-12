@@ -16,7 +16,6 @@
     - Writing Samples:
         - E-book: [Cloud Development Environment Maturity Model](https://coder.com/ebooks-and-reports/ebooks/cloud-development-environment-maturity-model)
         - Technical Blog: [Deploy Generative AI at scale with one code block using Coder, VS Code Web and GitHub Copilot](https://coder.com/blog/deploy-generative-ai-at-scale-with-one-code-block-using-coder-vs-code-web-and-git)
-        - Technical Blog: [Automation in the Modern Enterprise Part 1](https://www.redhat.com/en/blog/automation-modern-enterprise-part-1), [Part 2](https://www.redhat.com/en/blog/automation-modern-enterprise-part-2)
         - Technical Blog: [Importing VMs to KVM with virt-v2v](https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v)
         - Technical Blog: [NGINX+ Advanced Loadbalancing](https://github.com/timquinlan/nginxplus-loadbalancing)
         - Technical Blog: [NGINX+ Multi-Node Tokens](https://github.com/timquinlan/multinode_tokens)
