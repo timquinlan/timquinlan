@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @timquinlan — a Solutions Architect and technical pre-sales professional with a decade of experience across API gateways, cloud-native infrastructure, and security. I've worked at NGINX, Red Hat, Coder, and Wallarm, and I believe community engagement and technical transparency are how trust gets built. Here are some speaking and writing samples from the last few years:
+- 👋 Hi, I'm @timquinlan — a Solutions Architect and technical GTM professional with experience across API gateways, cloud-native infrastructure, and security. I've worked at NGINX, Red Hat, Coder, and Wallarm, and I believe community engagement and technical transparency are how trust gets built. Here are some speaking and writing samples from the last few years:
 
     - Speaking Samples:
         - SCaLE 2025: [CDEs are Strategic Assets](https://youtu.be/6fxbaK-D6j8?si=56m1CV66Gjf1LlYL)
